@@ -1,0 +1,80 @@
+#Title {
+    font-size: 50px;
+    color: rgb(46, 46, 46);
+}
+
+#Navigation-Bar {
+    font-size: 20px;
+    padding: 15px;
+}
+
+#profile-pic {
+    display: block;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Header {
+    font-size: 20px;
+    color: rgb(128, 9, 27);
+}
+
+#Child {
+    font-size: 18px;
+    padding-left: 15px;
+}
+
+#Highlight {
+    color: rgb(158, 118, 180);
+}
+
+#Box {
+    border: groove rgb(201, 201, 201) 3px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+#CenterGroup {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+#logo {
+    padding: 5px;
+    width: 50px;
+}
+
+#disable {
+    color: white;
+    background-color: rgb(46, 46, 46);
+    padding: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+#imgCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Text {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.center {
+    text-align: center;
+}
+
+.Bold {
+    font-weight: bolder;
+}
